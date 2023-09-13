@@ -1,5 +1,1 @@
-# employee
-
-The data was gotten from kaggle.
-
-The aim of this project is to visualize the data set using powerbi
+This project involves utilizing employee data obtained from Kaggle and employing Power BI to create visualizations for the dataset.
